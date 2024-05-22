@@ -11,3 +11,6 @@ https://github.com/MarcusPRobot/TM14-DT-Unity-UiA-BSc2024
 
 **Node-RED and ROS 2 files**
 https://github.com/EliasLand/Middleware-for-digital-twin-platform
+
+**PLC Program files**
+https://github.com/TorePang/PLC-programming/tree/main
