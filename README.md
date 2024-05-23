@@ -4,7 +4,7 @@ Repository including links to git repositories including the project files, and 
 # Links
 
 **Bachelor's project video**
-https://www.youtube.com/watch?v=96V2t9hItnw
+https://www.youtube.com/watch?v=saMr48I3a2o
 
 **Unity project folder for the virtual environment**
 https://github.com/MarcusPRobot/TM14-DT-Unity-UiA-BSc2024
